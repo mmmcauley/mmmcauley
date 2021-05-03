@@ -5,6 +5,7 @@
         ' editor',
         ' graphic designer',
         ' student',
+        ' musician',
         
         ], i = 0;
     setInterval(function(){
